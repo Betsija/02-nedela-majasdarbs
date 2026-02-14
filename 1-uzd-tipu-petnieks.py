@@ -31,7 +31,20 @@ print("Skaitļi nav vienādi")
 h = 2
 i = 3
 print(h >= i)
-print("Skaitlis h nav lielāks vai vienāds ar i")    
+print("Skaitlis h nav lielāks vai vienāds ar i\n")
+j = 3
+print(j < 2 or j > 4)
+print("Skaitlis j nav mazāks par 2 un nav lielāks par 4")  
+print(j > 2 and j < 4)
+print("Skaitlis j ir lielāks par 2 un mazāks par 4")
+print(j < 2 or j > 4)
+print("Skaitlis j nav mazāks par 2 un nav lielāks par 4")
+
+
+
+
+
+
 
 
 
